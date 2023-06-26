@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yumipangan
+ *
+ */
+module VendingMachineFactorySimulator {
+}
